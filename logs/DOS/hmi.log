@@ -1,0 +1,3 @@
+INFO 11/28/2020 12:35:55 10.0.0.2 main_loop Sent new velocity to PLC (10.0.0.1): 40.000000.
+INFO 11/28/2020 12:36:41 10.0.0.2 main_loop Sent new velocity to PLC (10.0.0.1): 14.000000.
+INFO 11/28/2020 12:37:15 10.0.0.2 main_loop Sent new velocity to PLC (10.0.0.1): 23.000000.
