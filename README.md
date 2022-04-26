@@ -155,4 +155,4 @@ While the logs indicate that the communication between the PLC and HMI is distur
 ![SYN flood attack](misc/SYN-flood_DOS_attack_wireshark.PNG "SYN flood attack")
 
 ## Research and Citation
-Please consider citing this GitHub repository and our [COMPSAC'22](https://github.com/FrauThes/DigitalTwin-ConveyorBelt/blob/master/CITATION.bib) publication if you are using our **DigitalTwin-ConveyorBelt** simulation for your research.
+Please consider citing this GitHub repository and our [COMPSAC'22](https://github.com/FrauThes/DigitalTwin-ConveyorBelt/blob/master/CITATION.bib) publication if you are using our **DigitalTwin-ConveyorBelt** simulation for your research: *Dietz, M., Schlette, D., & Pernul, G. (2022). Harnessing Digital Twin Security Simulations for systematic Cyber Threat Intelligence. In 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC)*
