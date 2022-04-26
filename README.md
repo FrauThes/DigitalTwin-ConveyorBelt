@@ -155,4 +155,4 @@ While the logs indicate that the communication between the PLC and HMI is distur
 ![SYN flood attack](misc/SYN-flood_DOS_attack_wireshark.PNG "SYN flood attack")
 
 ## Research and Citation
-Please consider citing this GitHub repository if you are using our **DigitalTwin-ConveyorBelt** simulation.
+Please consider citing this GitHub repository and our [COMPSAC'22](https://github.com/FrauThes/DigitalTwin-ConveyorBelt/blob/master/CITATION.bib) publication if you are using our **DigitalTwin-ConveyorBelt** simulation for your research.
